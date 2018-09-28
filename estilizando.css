@@ -1,0 +1,14 @@
+#menu,li{
+	  display: inline;
+}
+.ingredientes{
+	margin-top:180px;
+}
+body{
+	background-color:#5F9EA0;
+}
+#menu,img{
+	width:50px;
+	height: 20px;
+	color:white;
+}
